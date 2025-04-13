@@ -48,6 +48,11 @@ Markdown is a lightweight markup language for creating formatted text using a pl
      2. Subitem 2.2
 ```
 
+1. Item 1
+2. Item 2
+     1. Subitem 2.1
+     2. Subitem 2.2
+
 ## Links
 ```markdown
 [Link Text](https://example.com)
