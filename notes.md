@@ -26,6 +26,11 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 ***Bold and Italic*** or ___Bold and Italic___
 ```
 
+
+*Italic* or _Italic_
+**Bold** or __Bold__
+***Bold and Italic*** or ___Bold and Italic___
+
 ## Lists
 ### Unordered List
 ```markdown
