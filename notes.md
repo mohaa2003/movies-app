@@ -101,9 +101,9 @@ Code block
 ## Tables
 ```markdown
 | Header 1 | Header 2 |
-|-------|----------|
+|----------|----------|
 | Row 1    | Data 1   |
-| Row 2 | Data 2   |
+| Row 2    | Data 2   |
 ```
 
 | Header 1 | Header 2 |
@@ -118,7 +118,7 @@ Code block
 
 ```
 - [ ] Task 1
-- [x] Task 2 (completed)
+- [x] Task 2 (completed).
 
 ## Escaping Characters
 Use a backslash `\` before special characters to escape them:
