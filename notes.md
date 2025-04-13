@@ -101,9 +101,9 @@ Code block
 ## Tables
 ```markdown
 | Header 1 | Header 2 |
-|----------|----------|
+|-------|----------|
 | Row 1    | Data 1   |
-| Row 2    | Data 2   |
+| Row 2 | Data 2   |
 ```
 
 | Header 1 | Header 2 |
