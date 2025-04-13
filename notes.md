@@ -12,6 +12,13 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 ###### Heading 6
 ```
 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
 ## Emphasis
 ```markdown
 *Italic* or _Italic_
