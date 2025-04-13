@@ -57,16 +57,21 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 ```markdown
 [Link Text](https://example.com)
 ```
+[Link Text](https://example.com)
 
 ## Images
 ```markdown
 ![Alt Text](image-url.jpg)
 ```
 
+![Alt Text](image-url.jpg)
+
 ## Blockquotes
 ```markdown
 > This is a blockquote.
 ```
+
+> This is a blockquote.
 
 ## Code
 ### Inline Code
@@ -74,11 +79,18 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 `Inline code`
 ```
 
+`Inline code`
+
+
 ### Code Block
 ```markdown
 ```
 Code block
 ```
+```
+
+```
+Code block
 ```
 
 ## Horizontal Rule
@@ -94,11 +106,19 @@ Code block
 | Row 2    | Data 2   |
 ```
 
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1    | Data 1   |
+| Row 2    | Data 2   |
+
 ## Task Lists
 ```markdown
 - [ ] Task 1
 - [x] Task 2 (completed)
+
 ```
+- [ ] Task 1
+- [x] Task 2 (completed)
 
 ## Escaping Characters
 Use a backslash `\` before special characters to escape them:
